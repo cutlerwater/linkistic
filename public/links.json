@@ -1,9 +1,4 @@
 [
-  /* {
-    "image": "/logos/instagram.svg",
-    "href": "https://www.instagram.com/avneesh.codes/",
-    "title": "Follow me on Instagram"
-  }, */
   {
     "image": "/logos/hashnode.svg",
     "href": "https://hashnode.com/@cutlerwater",
@@ -14,11 +9,6 @@
     "href": "https://github.com/cutlerwater",
     "title": "Look at my code on Github"
   },
-  /* {
-    "image": "/logos/twitter.svg",
-    "href": "https://twitter.com/avneesh0612",
-    "title": "Follow me on Twitter"
-  }, */
   {
     "image": "/logos/linkedin.svg",
     "href": "https://www.linkedin.com/in/garrett-cutler-20b52311/",
@@ -28,5 +18,15 @@
     "image": "/logos/globe.svg",
     "href": "https://cutlerwater-newportfolio.netlify.app/",
     "title": "Checkout my website"
+  },
+  {
+    "image": "/logos/yt.svg",
+    "href": "https://studio.youtube.com/channel/UCaQLwbwbdZbadVkodFAhBiA/videos",
+    "title": "Checkout my youtube videos"
+  },
+  {
+    "image": "/logos/stack.jpg",
+    "href": "https://stackoverflow.com/users/11222195/garrett-cutler",
+    "title": "Checkout my stack overflow page"
   }
 ]

@@ -8,13 +8,13 @@ export default function Home() {
     <div className="flex flex-col w-screen min-h-screen overflow-x-hidden bg-background justify-center items-center">
       <div className="mt-5">
         <Image
-          width={250}
-          height={250}
-          className="mx-auto border-[1px] rounded-full border-accent"
-          src="/AISProfile512.png"
+          width={245}
+          height={245}
+          className="mx-auto border-[1px] rounded-full border-accent my-50"
+          src="/AISProfile256.jpg"
           alt="Garrett Cutler"
         />
-        <h2 className="mb-3 -mt-5 text-3xl font-bold text-center text-accent md:text-4xl">
+        <h2 className="mb-3 -mt-1 text-3xl font-bold text-center text-accent md:text-4xl">
           Garrett Cutler 
         </h2>
       </div>
