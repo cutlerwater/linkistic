@@ -28,5 +28,10 @@
     "image": "/logos/stack.jpg",
     "href": "https://stackoverflow.com/users/11222195/garrett-cutler",
     "title": "Checkout my stack overflow page"
+  },
+  {
+    "image": "/logos/resume.png",
+    "href": "https://cutlerwater-profile.netlify.app/",
+    "title": "Checkout my portfolio"
   }
 ]
