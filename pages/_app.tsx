@@ -6,35 +6,35 @@ function MyApp({ Component, pageProps }: AppProps) {
   return (
     <>
       <NextSeo
-        title="Connect with Avneesh"
-        titleTemplate="Connect with Avneesh"
-        defaultTitle="Connect with Avneesh"
+        title="Connect with Cutlerwater"
+        titleTemplate="Connect with Cutlerwater"
+        defaultTitle="Connect with Cutlerwater"
         description="An app with all my social links"
-        canonical="https://www.avneesh.tech/"
+        canonical="https://cutlerwater-newportfolio.netlify.app/"
         openGraph={{
-          url: "https://www.avneesh.tech/",
-          title: "Connect with Avneesh",
+          url: "https://cutlerwater-newportfolio.netlify.app/",
+          title: "Connect with Cutlerwater",
           description: "An app with all my social links",
           images: [
             {
               url: "/og-image.png",
               width: 800,
               height: 420,
-              alt: "Connect with Avneesh",
+              alt: "Connect with Cutlerwater",
             },
           ],
           profile: {
-            firstName: "Avneesh",
+            firstName: "Cutlerwater",
             gender: "Male",
-            lastName: "Agarwal",
-            username: "avneesh0612",
+            lastName: "Cutler",
+            username: "Cutlerwater",
           },
         }}
-        twitter={{
-          handle: "@avneesh0612",
-          site: "@avneesh0612",
+        /* twitter={{
+          handle: "@Cutlerwater",
+          site: "@Cutlerwater",
           cardType: "summary_large_image",
-        }}
+        }} */
       />
       <Component {...pageProps} />
     </>

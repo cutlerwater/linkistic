@@ -11,11 +11,11 @@ export default function Home() {
           width={250}
           height={250}
           className="mx-auto border-[1px] rounded-full border-accent"
-          src="/icon-512x512.png"
-          alt="Avneesh Agarwal"
+          src="/AISProfile512.png"
+          alt="Garrett Cutler"
         />
         <h2 className="mb-3 -mt-5 text-3xl font-bold text-center text-accent md:text-4xl">
-          Avneesh Agarwal
+          Garrett Cutler 
         </h2>
       </div>
       <div className="w-full max-w-lg p-6">

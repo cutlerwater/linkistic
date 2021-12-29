@@ -1,32 +1,32 @@
 [
-  {
+  /* {
     "image": "/logos/instagram.svg",
     "href": "https://www.instagram.com/avneesh.codes/",
     "title": "Follow me on Instagram"
-  },
+  }, */
   {
     "image": "/logos/hashnode.svg",
-    "href": "https://avneesh0612.hashnode.dev/",
+    "href": "https://hashnode.com/@cutlerwater",
     "title": "Checkout my blogs on Hashnode"
   },
   {
     "image": "/logos/github.svg",
-    "href": "https://github.com/avneesh0612",
+    "href": "https://github.com/cutlerwater",
     "title": "Look at my code on Github"
   },
-  {
+  /* {
     "image": "/logos/twitter.svg",
     "href": "https://twitter.com/avneesh0612",
     "title": "Follow me on Twitter"
-  },
+  }, */
   {
     "image": "/logos/linkedin.svg",
-    "href": "https://www.linkedin.com/in/avneesh0612/",
+    "href": "https://www.linkedin.com/in/garrett-cutler-20b52311/",
     "title": "Connect with me on LinkedIn"
   },
   {
     "image": "/logos/globe.svg",
-    "href": "https://www.avneesh.tech/",
+    "href": "https://cutlerwater-newportfolio.netlify.app/",
     "title": "Checkout my website"
   }
 ]
